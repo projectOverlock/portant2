@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1029025259707",
+    "project_id": "mytestapp-8bbe4",
+    "storage_bucket": "mytestapp-8bbe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029025259707:android:85562ac93d457647f0899e",
+        "android_client_info": {
+          "package_name": "com.portant.overlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029025259707-2ojte6n6v15mhin0a8erf15boprccbfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi5apZAfo0hEL24_9wVF5tWuR6I-unCLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029025259707-2ojte6n6v15mhin0a8erf15boprccbfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1029025259707-56ma6t79fhoauda8knnr5ptvpl2ke1sr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.overlock"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
