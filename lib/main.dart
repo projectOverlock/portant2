@@ -15,7 +15,6 @@ import 'router/shopping_parser.dart';
 import 'router/ui_pages.dart';
 
 bool USE_FIRESTORE_EMULATOR = false;
-FirebaseAuth _auth = FirebaseAuth.instance;
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
